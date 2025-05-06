@@ -14,6 +14,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 - Documentation: <https://balouf.github.io/my-first-ph3-package/>.
 - Github: <https://github.com/balouf/my-first-ph3-package>
 
+And that's it!
 
 ## Features
 

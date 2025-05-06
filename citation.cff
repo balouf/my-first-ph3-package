@@ -1,0 +1,15 @@
+
+cff-version: 1.2.0
+title: My First PH3 Package
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Mathieu
+    given-names: Fabien
+    email: fabien.mathieu@normalesup.org
+repository-code: "https://github.com/balouf/my-first-ph3-package/"
+url: "https://balouf.github.io/my-first-ph3-package/"
+abstract: Python Boilerplate contains all the boilerplate you need to create a Python package.
+license: MIT
